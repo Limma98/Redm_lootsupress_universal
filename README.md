@@ -14,12 +14,6 @@ A lightweight RedM resource that disables the vanilla loot prompt on dead and ho
 
 Designed for RP servers that have a custom looting system and don't want the default game loot prompt conflicting or giving players access to vanilla loot.
 
-## Installation
-
-1. Drop the `no_vanilla_loot` folder into your `resources` directory
-2. Add `ensure no_vanilla_loot` to your `server.cfg`
-3. Restart your server
-
 ## Dependencies
 
 None.
